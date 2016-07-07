@@ -92,5 +92,5 @@ ENV/
 libspotify/
 Songs/
 tmp/
-config.py
+config.py*
 *.key
