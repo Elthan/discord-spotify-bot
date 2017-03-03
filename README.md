@@ -23,4 +23,4 @@ a play command afterwards.
 
 
 ## Installation
-Fill in the config.py. Token is the discord token. You also need pyspotify and a Spotify appkey.
+Fill in the config.py. Token is the discord token. You also need pyspotify and a Spotify appkey, follow the instructions for this in https://pyspotify.mopidy.com/
