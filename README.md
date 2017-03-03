@@ -20,3 +20,7 @@ It's not a perfect bot, so expect to have to restart it from time to time.
 
 If you queue something up before it has started to play, you will have to issue
 a play command afterwards.
+
+
+## Installation
+Fill in the config.py. Token is the discord token. You also need pyspotify and a Spotify appkey.
