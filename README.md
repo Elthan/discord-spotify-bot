@@ -2,6 +2,12 @@
 
 Using a spotify account to play music in Discord.
 
+## DEPRECATION
+This is not maintained and haven't been since I first wrote it in 2016 and unfortunately does not work in its current form (not that it was working great when it was working).   
+There has been several changes and libspotify is officially deprecated (though might still work) which means fixing it would 
+take more time than I have at the moment.    
+You are more than welcome to fork it and I would be happy to point to it from here if you get it working.
+
 
 ## Requirements
 
